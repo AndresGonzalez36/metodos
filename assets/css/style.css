@@ -1,0 +1,14 @@
+
+.ingreso{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ margin: 10px;
+ gap: 10px;
+}
+
+.resultados{
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+}
